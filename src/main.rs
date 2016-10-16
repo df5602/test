@@ -7,7 +7,7 @@ fn main() {
             if y % 2 == 0 {
                 continue 'inner;
             }
-            println!("x: {}, y: {}", x, y);
+            println!("x: {}, y: {}", x, y); //test
         }
     }
 }
